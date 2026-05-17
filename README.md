@@ -8,3 +8,14 @@
 ### Test Result Analysis: Test results are evenly distributed Abnormal 18,437, Normal 18,331, inconclusive 18,198. Blood group distribution is uniform with A- the most common at 6,898 patients.
 ### Medication Analysis: Ibuprofen is the most prescribed medication at 11,023 prescriptions and the highest billing medication at 283.8M 
 ## Key Findings/Observations 
+### Revenue & Billing Analysis: Revenue is stable with no extreme rise. Total billing is 1.4Billion. Highest rise is in july at #122.5M, lowest in Febuary at #109.9M. Difference is only #12.7M across months 
+
+![](monthrevenue.png)
+
+### Admission Analysis: Elective admission drives the most revenue. Elective had #473.1M, Urgent had #469.2M, Emergency had #461.7M. Planned procedures which is the elective admission generate higher billin that urgent and emergency admissions
+
+![](insurance&admissiontype.png)
+
+Emergency admission analysis: Females recorded the highest number of emergency admission at 9,166 while male had  8,936. the admisssion is nearly equal.
+
+![](genderadmission.png)
