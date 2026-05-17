@@ -29,3 +29,11 @@ Monthly admission trends: August recorede the highest admissions at 4,785, while
 ![](genderdistribution.png)
 Blood group distribution: A- had the most common blood group with 6,898 patients while O- has the lowest with 6,804 patients
 ![](commonbloodgroup.png)
+Age group analysis: Seniors and Adult had over 75% of the admission while children and adult makes less than 3% commbined. this means that the hospital sees more elderly and young adult compared to children and adults. Seniors recorded the highest patients with over 20,948 patients while adult had the lowest which is 798 patients.
+![](agegroup.png)
+
+### Medical Conditions: Arthritis affects 9,218 patients, Diabetes, Hypertension,Obesity,Cancer and Asthma follows
+![](mostcommonmedicalbillingcondition.png)
+Billing analysis by medical condition
+Diabetes had the highest total billing amount at #236.49Million, followed by obesity and Arthritis. All the conditions generates more revenue, indicating that chronic illnesses generate more money for the hospital.
+![](medicationanalysis.png)
