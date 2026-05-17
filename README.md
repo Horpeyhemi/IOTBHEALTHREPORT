@@ -12,10 +12,20 @@
 
 ![](monthrevenue.png)
 
+Insurance revenue is evenly spread. Cigna leads at #284.3M, Aetna lowest is at #276.5. The diffenece betwween hughest and the lowest is #7.8M
+![](insurance&admissiontype.png)
+
 ### Admission Analysis: Elective admission drives the most revenue. Elective had #473.1M, Urgent had #469.2M, Emergency had #461.7M. Planned procedures which is the elective admission generate higher billin that urgent and emergency admissions
 
 ![](insurance&admissiontype.png)
 
 Emergency admission analysis: Females recorded the highest number of emergency admission at 9,166 while male had  8,936. the admisssion is nearly equal.
 
-![](genderadmission.png)
+![](genderadmissions.png)
+
+Monthly admission trends: August recorede the highest admissions at 4,785, while febuary was the lowest at 4,210. Admissions remained stables throughout the year, and increased a little bit during the middle of the year months.
+![](monthsadmissions.png)
+### Patients Analysis: Total patients are didvided by gendesr, male had 27,496 patients while female recorded 27,470 patients
+![](genderdistribution.png)
+Blood group distribution: A- had the most common blood group with 6,898 patients while O- has the lowest with 6,804 patients
+![](commonbloodgroup.png)
