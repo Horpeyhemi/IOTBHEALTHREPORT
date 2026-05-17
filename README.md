@@ -37,3 +37,9 @@ Age group analysis: Seniors and Adult had over 75% of the admission while childr
 Billing analysis by medical condition
 Diabetes had the highest total billing amount at #236.49Million, followed by obesity and Arthritis. All the conditions generates more revenue, indicating that chronic illnesses generate more money for the hospital.
 ![](medicationanalysis.png)
+Medical condition Frequency: All the conditions had patients and they generated revenue, the only difference betwwen the highest and the lowest is just 123 difference, this shows that the hospital have botj chronic and non chronic conditions
+### Test Result Analysis: The result are splited. Abnormal are only 106 more than the normal result. Out of all the test analysed, 18,437 were abnormal, 18,331 was normal and 18,198 was inconclusive.
+![](testresultanalysis.png)
+Condition associated with the abnormal test result 
+![](abnormaltest.png)
+### Medication Analysis: 
