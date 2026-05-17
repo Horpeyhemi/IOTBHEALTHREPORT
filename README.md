@@ -42,4 +42,7 @@ Medical condition Frequency: All the conditions had patients and they generated 
 ![](testresultanalysis.png)
 Condition associated with the abnormal test result 
 ![](abnormaltest.png)
-### Medication Analysis: 
+### Medication Analysis: Lipitor is the most prescribed medication with 11,038 prescriptions, but the counts are very close across all 5 drugs. The range between the highest and the lowest medication is only 82 prescriptions. This shows that the hospital treats a mix of condition among the patients, there is no single patient that goes without a prescription.
+![](mostprescribedmedication.png)
+Medication Billing Analysis: Ibuprofen generated the highest billing with #283.7Million, although all medication had almost he same billing with just few difference, the difference between the highest and the lowest is just #4.58M, this means that all medication contributed greatly to the revenue.
+![](medicationanalysis)
