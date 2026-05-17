@@ -45,4 +45,11 @@ Condition associated with the abnormal test result
 ### Medication Analysis: Lipitor is the most prescribed medication with 11,038 prescriptions, but the counts are very close across all 5 drugs. The range between the highest and the lowest medication is only 82 prescriptions. This shows that the hospital treats a mix of condition among the patients, there is no single patient that goes without a prescription.
 ![](mostprescribedmedication.png)
 Medication Billing Analysis: Ibuprofen generated the highest billing with #283.7Million, although all medication had almost he same billing with just few difference, the difference between the highest and the lowest is just #4.58M, this means that all medication contributed greatly to the revenue.
-![](medicationanalysis)
+![](medicationwithhighestbilling.png)
+## Insight
+The data is almost balanced, the test result, drugs and the billings are close to the same.
+Too many test are inconclusive, which means a lot of patients need to do the test again.
+The hospital treats alot of conditions and they didnt depend on any medication or revenue. 
+
+## Recommendation
+They should focus on working on the number of inconclusive, check the testing process and train the staff on how to work on the testwithout affecting the balanced medication use and revenue they already have.
