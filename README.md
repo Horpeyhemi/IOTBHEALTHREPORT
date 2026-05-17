@@ -6,4 +6,5 @@
 ### Patient Analysis: Gender is nearly equal. 50.03% male and 49,.97% Female.
 ### Medical condition analysis: Arthritis affects the most patients at 9,218, followed closely by Diabetes, Hypertension,Obesity, Cancer amd Asthma. Diabetes drives the highest billing by condition at 236.5M, despite not having the highest patient count. 
 ### Test Result Analysis: Test results are evenly distributed Abnormal 18,437, Normal 18,331, inconclusive 18,198. Blood group distribution is uniform with A- the most common at 6,898 patients.
-### Medication Analysis: Ibuprofen is the ost prescribed medication at 11,023 prescriptions and the highest billing medication at 283.8M 
+### Medication Analysis: Ibuprofen is the most prescribed medication at 11,023 prescriptions and the highest billing medication at 283.8M 
+## Key Findings/Observations 
